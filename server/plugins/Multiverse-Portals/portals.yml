@@ -1,0 +1,12 @@
+portals:
+  fall:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Adam89893333
+    location: 209.0,74.0,176.0:212.0,74.0,179.0
+    world: world
+    destination: new

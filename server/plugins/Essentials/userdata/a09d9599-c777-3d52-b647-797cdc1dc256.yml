@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1761569181721
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1761617862986
+  login: 1761617685361
+money: '0'
+last-account-name: Hamzah898933_
+logoutlocation:
+  world: 810857a2-4898-4803-b67e-99d3e2474154
+  world-name: life
+  x: 96.76337303030536
+  y: 64.0
+  z: 330.2376791786431
+  yaw: -22.950023651123047
+  pitch: 8.849997520446777
+lastlocation:
+  world: 44541fba-296b-455a-86b8-0af47702bad3
+  world-name: unfair
+  x: 945.9901782395152
+  y: 6.875
+  z: -553.5753941775001
+  yaw: -326.850830078125
+  pitch: 20.399999618530273

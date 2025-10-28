@@ -1,0 +1,25 @@
+# ======================================================
+# Language Settings
+# 语言设置
+# ======================================================
+# Available languages: en, zh
+# 可用语言：en（英文）, zh（中文）
+language: en
+api:
+  keys:
+  - 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
+  selection_method: round_robin
+  base_url: https://api.openai.com/v1
+models:
+- gpt-4
+- gpt-4-turbo
+- gpt-4-turbo-preview
+- gpt-4o
+- gpt-4o-mini
+default_model: gpt-4o-mini
+conversation:
+  context_enabled: false
+  max_history_size: 10
+characters:
+  ChatGPT: You are a helpful assistant.
+debug: false
